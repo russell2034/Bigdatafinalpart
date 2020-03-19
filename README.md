@@ -1,4 +1,4 @@
-# Bigdata Final  Project Part 2&3 Combined 
+# Bigdata Final  Project Part 2&3 Combined !
 
 After part 1 of the project we beging by setting up a docker compose with 3 services: ElasticSearch, Kibana, Python Script
 
